@@ -12,11 +12,13 @@ A logged-in user can:
   <li>Persist their logged-in state through a page refresh</li>
   <li>Create an event with details</li>
     <li>(CRUD actions on Attendance using RESTful routes)</li>
+    <ul>
    <li> Register for an existing event, along with the total number of attendees they plan to bring</li>
    <li> Have their registration displayed to all users</li>
    <li> Update their number of attendees</li>
    <li> Cancel their registration</li>
    <li> Display all of the events for which they are registered</li>
+   </ul>
   <li>Log out of the app</li>
 </ul>
 
